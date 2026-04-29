@@ -1,17 +1,20 @@
 ## Hi there, I'm Khaled - aka khaledxpeke 👋
 
-I am a passionate developer with expertise in Lua and a variety of other programming languages. My GitHub journey began in 2020, and since then, I have been actively creating diverse projects and repositories. 
+I am a passionate developer with expertise in Java script and a variety of other programming languages. My GitHub journey began in 2020, and since then, I have been actively creating diverse projects and repositories. 
 
 ### 🔧 Skills
 
-- Lua
 - JavaScript
+- Node JS
+- React JS
+- Flutter
 - HTML
 - CSS
 - EJS
 - SCSS
 - TypeScript
 - Shell
+- Lua
 
 ### 🚀 Projects
 
@@ -30,8 +33,8 @@ I am a passionate developer with expertise in Lua and a variety of other program
 
 ### 🌟 Get in Touch
 
-- You can reach me at *insert email or contact information*
-- Let's connect on [LinkedIn](insert link)
+- You can reach me at khaledbouajila5481@gmail.com
+- Let's connect on [LinkedIn](https://www.linkedin.com/in/khaled-bouajila/)
 
 ### 📊 Recent Activity
 
@@ -45,9 +48,9 @@ I am a passionate developer with expertise in Lua and a variety of other program
 
 Here are some of my best projects:
 
-- Project 1
-- Project 2
-- Project 3
+- HFBatiment
+- Tacos korner
+- Delivery app
 
 For more details, make sure to check out [my GitHub profile](https://github.com/khaledxpeke).
 
@@ -55,4 +58,4 @@ Feel free to explore my projects and reach out for collaborations or discussions
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](insert link)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/khaled-bouajila/)
