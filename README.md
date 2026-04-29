@@ -18,8 +18,8 @@ I am a passionate developer with expertise in Java script and a variety of other
 
 ### 🚀 Projects
 
-- [Tacos-korner-Multiple-backend](link)
-- [RestaurantProject](link)
+- [Eat Me Backend](https://github.com/khaledxpeke/EatMeBackend)
+- [Delivery App Backend](https://github.com/khaledxpeke/Delivery_App_Backend)
 - [... more projects on my GitHub profile](https://github.com/khaledxpeke?tab=repositories))
 
 ### 📈 GitHub Stats
