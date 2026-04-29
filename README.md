@@ -20,7 +20,7 @@ I am a passionate developer with expertise in Java script and a variety of other
 
 - [Tacos-korner-Multiple-backend](link)
 - [RestaurantProject](link)
-- [... more projects on my GitHub profile](https://github.com/khaledxpeke)
+- [... more projects on my GitHub profile](https://github.com/khaledxpeke?tab=repositories))
 
 ### 📈 GitHub Stats
 
